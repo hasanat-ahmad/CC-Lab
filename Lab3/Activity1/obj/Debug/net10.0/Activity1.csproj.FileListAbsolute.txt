@@ -1,0 +1,15 @@
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/bin/Debug/net10.0/Activity1
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/bin/Debug/net10.0/Activity1.deps.json
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/bin/Debug/net10.0/Activity1.runtimeconfig.json
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/bin/Debug/net10.0/Activity1.dll
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/bin/Debug/net10.0/Activity1.pdb
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.AssemblyInfoInputs.cache
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.AssemblyInfo.cs
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.csproj.CoreCompileInputs.cache
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.sourcelink.json
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.dll
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/refint/Activity1.dll
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.pdb
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/Activity1.genruntimeconfig.cache
+/Users/sahibzadahasanatahmad/Desktop/Data/CUI/7th Semester/CC/Lab/Lab3/Activity1/obj/Debug/net10.0/ref/Activity1.dll
