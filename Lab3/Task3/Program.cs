@@ -7,7 +7,7 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            // the document given in the lab manual
+            Console.WriteLine("Task 3: Words starting with 't' and 'm'");
             string document =
                 "Diffusion refers to the process by which molecules intermingle as a result of their kinetic " +
                 "energy of random motion. Consider two containers of gas A and B separated by a partition. " +
