@@ -20,9 +20,7 @@ namespace Activity2
 
             string[] words = input.Split(' ');
 
-            // grouping with ( ) and alternation with | -- one complete word must be matched.
-            // note: a character class like [int | float] would be wrong, it matches single
-            // letters such as 'i', 'n', 't' in any order, not the whole keyword.
+
             Regex regex = new Regex(@"^(int|float|double|char)$");
 
             Console.WriteLine();
